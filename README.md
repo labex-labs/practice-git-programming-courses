@@ -14,8 +14,6 @@ Git is a version control system that allows you to track changes in your code an
 
 ## More Courses
 
-## More Courses
-
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
 - [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
