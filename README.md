@@ -9,8 +9,7 @@ Git is a version control system that allows you to track changes in your code an
 |   Index | Name                                                                        | Level   | Repo                                                            | Course Link                                                 |
 |---------|-----------------------------------------------------------------------------|---------|-----------------------------------------------------------------|-------------------------------------------------------------|
 |       1 | [Quick Start with Git](https://labex.io/courses/quick-start-with-git)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Start](https://labex.io/courses/quick-start-with-git)    |
-|       2 | [Git Practice Labs](https://labex.io/courses/git-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/git-practice-labs)       | [🚀 Start](https://labex.io/courses/git-practice-labs)       |
-|       3 | [Git Practice Challenges](https://labex.io/courses/git-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Start](https://labex.io/courses/git-practice-challenges) |
+|       2 | [Git Practice Challenges](https://labex.io/courses/git-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Start](https://labex.io/courses/git-practice-challenges) |
 
 ## More Courses
 
