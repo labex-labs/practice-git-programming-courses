@@ -12,8 +12,8 @@ Git 은 업계 표준 버전 관리 시스템입니다. 이 스킬 트리는 Git
 
 |   인덱스 | 이름                                                                   | 난이도   | Repo                                                             | 연습                                                                |
 |----------|------------------------------------------------------------------------|----------|------------------------------------------------------------------|---------------------------------------------------------------------|
-|        1 | [Git 퀵 스타트](https://labex.io/ko/courses/quick-start-with-git)      | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-git)    |
-|        2 | [Git 실습 챌린지](https://labex.io/ko/courses/git-practice-challenges) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/git-practice-challenges) |
+|        1 | [Git 퀵 스타트](https://labex.io/ko/courses/quick-start-with-git)      | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-git)    |
+|        2 | [Git 실습 챌린지](https://labex.io/ko/courses/git-practice-challenges) | 초급     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/git-practice-challenges) |
 
 ## 더 보기
 
