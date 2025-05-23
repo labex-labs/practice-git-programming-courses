@@ -12,8 +12,8 @@ Git ist das branchenübliche Versionskontrollsystem. Dieser Skill Tree bietet ei
 
 |   Index | Name                                                                               | Schwierigkeit   | Repo                                                             | Übung                                                                   |
 |---------|------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------|-------------------------------------------------------------------------|
-|       1 | [Schnellstart mit Git](https://labex.io/de/courses/quick-start-with-git)           | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-git)    |
-|       2 | [Git Übungsherausforderungen](https://labex.io/de/courses/git-practice-challenges) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/git-practice-challenges) |
+|       1 | [Schnellstart mit Git](https://labex.io/de/courses/quick-start-with-git)           | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-git)    |
+|       2 | [Git Übungsherausforderungen](https://labex.io/de/courses/git-practice-challenges) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/git-practice-challenges) |
 
 ## Mehr
 
