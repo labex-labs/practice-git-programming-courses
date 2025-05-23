@@ -12,8 +12,8 @@ Git est le système de contrôle de version standard de l'industrie. Cet arbre d
 
 |   Index | Nom                                                                           | Difficulté   | Repo                                                             | Pratique                                                                   |
 |---------|-------------------------------------------------------------------------------|--------------|------------------------------------------------------------------|----------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec Git](https://labex.io/fr/courses/quick-start-with-git) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-git)    |
-|       2 | [Défis pratiques Git](https://labex.io/fr/courses/git-practice-challenges)    | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Commencer le Lab](https://labex.io/fr/courses/git-practice-challenges) |
+|       1 | [Démarrage rapide avec Git](https://labex.io/fr/courses/quick-start-with-git) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-git)    |
+|       2 | [Défis pratiques Git](https://labex.io/fr/courses/git-practice-challenges)    | Débutant     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Commencer le Lab](https://labex.io/fr/courses/git-practice-challenges) |
 
 ## Plus
 
