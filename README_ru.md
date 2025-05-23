@@ -12,8 +12,8 @@ Git является стандартной системой контроля в
 
 |   Индекс | Название                                                                               | Сложность   | Repo                                                             | Практика                                                                     |
 |----------|----------------------------------------------------------------------------------------|-------------|------------------------------------------------------------------|------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с Git](https://labex.io/ru/courses/quick-start-with-git)                | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-git)    |
-|        2 | [Задачи по практике работы с Git](https://labex.io/ru/courses/git-practice-challenges) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/git-practice-challenges) |
+|        1 | [Быстрый старт с Git](https://labex.io/ru/courses/quick-start-with-git)                | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-git)    |
+|        2 | [Задачи по практике работы с Git](https://labex.io/ru/courses/git-practice-challenges) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/git-practice-challenges) |
 
 ## Больше
 
