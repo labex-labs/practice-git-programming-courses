@@ -12,8 +12,8 @@ Git は業界標準のバージョン管理システムです。このスキル�
 
 |   インデックス | 名前                                                                       | 難易度   | Repo                                                             | 練習                                                                 |
 |----------------|----------------------------------------------------------------------------|----------|------------------------------------------------------------------|----------------------------------------------------------------------|
-|              1 | [Git のクイックスタート](https://labex.io/ja/courses/quick-start-with-git) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-git)    |
-|              2 | [Git 実践チャレンジ](https://labex.io/ja/courses/git-practice-challenges)  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/git-practice-challenges) |
+|              1 | [Git のクイックスタート](https://labex.io/ja/courses/quick-start-with-git) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-git)    |
+|              2 | [Git 実践チャレンジ](https://labex.io/ja/courses/git-practice-challenges)  | 初級     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/git-practice-challenges) |
 
 ## その他
 
