@@ -12,8 +12,8 @@ Git é o sistema de controlo de versão padrão da indústria. Esta Skill Tree o
 
 |   Índice | Nome                                                                            | Dificuldade   | Repo                                                             | Prática                                                               |
 |----------|---------------------------------------------------------------------------------|---------------|------------------------------------------------------------------|-----------------------------------------------------------------------|
-|        1 | [Início Rápido com Git](https://labex.io/pt/courses/quick-start-with-git)       | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-git)    |
-|        2 | [Desafios Práticos de Git](https://labex.io/pt/courses/git-practice-challenges) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/git-practice-challenges) |
+|        1 | [Início Rápido com Git](https://labex.io/pt/courses/quick-start-with-git)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-git)    |
+|        2 | [Desafios Práticos de Git](https://labex.io/pt/courses/git-practice-challenges) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/git-practice-challenges) |
 
 ## Mais
 
