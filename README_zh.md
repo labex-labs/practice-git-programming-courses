@@ -12,8 +12,8 @@ Git 是行业标准的版本控制系统。此技能树提供了全面掌握 Git
 
 |   序号 | 名称                                                                | 难度   | Repo                                                             | 练习                                                               |
 |--------|---------------------------------------------------------------------|--------|------------------------------------------------------------------|--------------------------------------------------------------------|
-|      1 | [Git 快速入门](https://labex.io/zh/courses/quick-start-with-git)    | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-git)    |
-|      2 | [Git 实践挑战](https://labex.io/zh/courses/git-practice-challenges) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/git-practice-challenges) |
+|      1 | [Git 快速入门](https://labex.io/zh/courses/quick-start-with-git)    | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-git)    |
+|      2 | [Git 实践挑战](https://labex.io/zh/courses/git-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/git-practice-challenges) |
 
 ## 更多
 
