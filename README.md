@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/mlkFQS0wjouP.png">
 </div>
 
-Git is the industry-standard version control system. This Skill Tree offers a comprehensive learning path to master Git. Suitable for developers at all levels, it provides a structured roadmap to understand repositories, branching, and collaboration workflows. Through hands-on, non-video courses and practical exercises in an interactive Git playground, you'll gain real-world experience in code version management and team collaboration.
+Learn Git, the industry-standard version control system, with this comprehensive learning path designed for beginners. This roadmap provides a structured approach to mastering Git through a series of hands-on Git courses. Progress from fundamental concepts like repositories and branching to advanced team collaboration workflows. Gain practical, real-world experience with code version management by completing interactive exercises in a dedicated Git playground.
 
 |   Index | Name                                                                        | Difficulty   | Repo                                                             | Practice                                                         |
 |---------|-----------------------------------------------------------------------------|--------------|------------------------------------------------------------------|------------------------------------------------------------------|
-|       1 | [Quick Start with Git](https://labex.io/courses/quick-start-with-git)       | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Start Lab](https://labex.io/courses/quick-start-with-git)    |
+|       1 | [Git for Beginners](https://labex.io/courses/git-for-beginners)             | Beginner     | [🔗 Repo](https://github.com/labex-labs/git-for-beginners)       | [🚀 Start Lab](https://labex.io/courses/git-for-beginners)       |
 |       2 | [Git Practice Challenges](https://labex.io/courses/git-practice-challenges) | Beginner     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/git-practice-challenges) |
 
 ## More
