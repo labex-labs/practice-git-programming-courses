@@ -8,12 +8,12 @@
 <img width="128px" src="https://file.labex.io/path/mlkFQS0wjouP.png">
 </div>
 
-Git は業界標準のバージョン管理システムです。このスキルツリーは、Git を習得するための包括的な学習パスを提供します。すべてのレベルの開発者に適しており、リポジトリ、ブランチ、コラボレーションワークフローを理解するための構造化されたロードマップを提供します。実践的な非動画コースとインタラクティブな Git プレイグラウンドでの実習を通じて、コードのバージョン管理とチームコラボレーションに関する実践的な経験を得ることができます。
+業界標準のバージョン管理システムである Git を、初心者向けに設計されたこの包括的な学習パスで習得しましょう。このロードマップは、一連の実践的な Git コースを通じて Git を習得するための体系的なアプローチを提供します。リポジトリやブランチングのような基本的な概念から、高度なチームコラボレーションワークフローまで段階的に学習します。専用の Git プレイグラウンドでインタラクティブな演習を完了することで、コードバージョン管理の実践的で実用的な経験を積むことができます。
 
-|   インデックス | 名前                                                                       | 難易度   | Repo                                                             | 練習                                                                 |
-|----------------|----------------------------------------------------------------------------|----------|------------------------------------------------------------------|----------------------------------------------------------------------|
-|              1 | [Git のクイックスタート](https://labex.io/ja/courses/quick-start-with-git) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-git)    |
-|              2 | [Git 実践チャレンジ](https://labex.io/ja/courses/git-practice-challenges)  | 初級     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/git-practice-challenges) |
+|   インデックス | 名前                                                                      | 難易度   | Repo                                                             | 練習                                                                 |
+|----------------|---------------------------------------------------------------------------|----------|------------------------------------------------------------------|----------------------------------------------------------------------|
+|              1 | [初心者向け Git](https://labex.io/ja/courses/git-for-beginners)           | 初級     | [🔗 Repo](https://github.com/labex-labs/git-for-beginners)       | [🚀 ラボを開始](https://labex.io/ja/courses/git-for-beginners)       |
+|              2 | [Git 実践チャレンジ](https://labex.io/ja/courses/git-practice-challenges) | 初級     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/git-practice-challenges) |
 
 ## その他
 
