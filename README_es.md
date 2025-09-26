@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/mlkFQS0wjouP.png">
 </div>
 
-Git es el sistema de control de versiones estándar de la industria. Este Skill Tree ofrece un camino de aprendizaje integral para dominar Git. Adecuado para desarrolladores de todos los niveles, proporciona una hoja de ruta estructurada para entender repositorios, ramas y flujos de trabajo de colaboración. A través de cursos prácticos sin video y ejercicios en un entorno interactivo de Git, adquirirás experiencia real en la gestión de versiones de código y colaboración en equipo.
+Aprende Git, el sistema de control de versiones estándar de la industria, con esta completa ruta de aprendizaje diseñada para principiantes. Esta hoja de ruta proporciona un enfoque estructurado para dominar Git a través de una serie de cursos prácticos. Progresa desde conceptos fundamentales como repositorios y ramificación hasta flujos de trabajo avanzados de colaboración en equipo. Gana experiencia práctica y real en la gestión de versiones de código completando ejercicios interactivos en un entorno de pruebas de Git dedicado.
 
 |   Índice | Nombre                                                                             | Dificultad   | Repo                                                             | Práctica                                                                      |
 |----------|------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|        1 | [Inicio rápido con Git](https://labex.io/es/courses/quick-start-with-git)          | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-git)    |
+|        1 | [Git para Principiantes](https://labex.io/es/courses/git-for-beginners)            | Principiante | [🔗 Repo](https://github.com/labex-labs/git-for-beginners)       | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/git-for-beginners)       |
 |        2 | [Desafíos de Práctica de Git](https://labex.io/es/courses/git-practice-challenges) | Principiante | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/git-practice-challenges) |
 
 ## Más
