@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/mlkFQS0wjouP.png">
 </div>
 
-Git 은 업계 표준 버전 관리 시스템입니다. 이 스킬 트리는 Git 을 마스터하기 위한 포괄적인 학습 경로를 제공합니다. 모든 레벨의 개발자에게 적합하며, 저장소, 브랜칭 및 협업 워크플로우를 이해하기 위한 체계적인 로드맵을 제공합니다. 대화형 Git 플레이그라운드에서 실습 중심의 비디오 없는 코스와 실용적인 연습을 통해 코드 버전 관리 및 팀 협업에 대한 실제 경험을 얻을 수 있습니다.
+업계 표준 버전 관리 시스템인 Git 을 위한 포괄적인 학습 경로를 통해 Git 을 배워보세요. 이 로드맵은 일련의 실습 Git 과정을 통해 Git 을 마스터하기 위한 체계적인 접근 방식을 제공합니다. 저장소 및 브랜칭과 같은 기본 개념부터 고급 팀 협업 워크플로우에 이르기까지 진행합니다. 전용 Git 플레이그라운드에서 대화형 연습을 완료하여 코드 버전 관리와 관련된 실용적이고 실제적인 경험을 얻으세요.
 
 |   인덱스 | 이름                                                                   | 난이도   | Repo                                                             | 연습                                                                |
 |----------|------------------------------------------------------------------------|----------|------------------------------------------------------------------|---------------------------------------------------------------------|
-|        1 | [Git 퀵 스타트](https://labex.io/ko/courses/quick-start-with-git)      | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-git)    |
+|        1 | [초보자를 위한 Git](https://labex.io/ko/courses/git-for-beginners)     | 초급     | [🔗 Repo](https://github.com/labex-labs/git-for-beginners)       | [🚀 실습 시작](https://labex.io/ko/courses/git-for-beginners)       |
 |        2 | [Git 실습 챌린지](https://labex.io/ko/courses/git-practice-challenges) | 초급     | [🔗 Repo](https://github.com/labex-labs/git-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/git-practice-challenges) |
 
 ## 더 보기
